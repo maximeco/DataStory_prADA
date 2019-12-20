@@ -100,6 +100,7 @@ To compute the score we did exactly as mentioned previously:
 
 \\[Score_{reviews} = \frac{comments_{pos}}{comments_{total}} * 100\\]
 
+
 <h3> Mean Rating </h3>
 
 The platform also provides an average rating for each restaurant. If we here intend to establish our own scores based on criteria we have thoroughly analyzed, it is always helpful to complete it with ratings established beforehand by the people who have dealt with the establishment.
